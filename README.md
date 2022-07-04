@@ -14,7 +14,7 @@
     </style>
 <body>
     <h1>this is heading 1</h1>
-    <P class="c1">this a pragraph list of first website lastv  six mounth </P>
+    <P style="color:yellow">this a pragraph list of first website lastv  six mounth </P>
     <p style="color:red">amar so ar bangla mai tomat valonashi  chirodin tom,arv aklash tomar bathasjh amar parane </p>
     <img src="New folder/flower.jpg"
     <a href="google.com">click me</a>
