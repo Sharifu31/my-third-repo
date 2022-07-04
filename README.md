@@ -6,8 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="shortcut icon" href="New folder/flower.jpg" type="image/x-icon">
-    <link rel="shtylesheet" href="style.css" type="text/css">
-</head>
+ <style>
+    .c1{
+    color:green;
+    background-color:greenyellow;
+    }
+    </style>
 <body>
     <h1>this is heading 1</h1>
     <P class="c1">this a pragraph list of first website lastv  six mounth </P>
